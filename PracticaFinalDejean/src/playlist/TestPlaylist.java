@@ -28,6 +28,8 @@ public class TestPlaylist {
 		
 		nuevaPlaylist.mostrarLista();
 		
+		System.out.println(nuevaPlaylist.cantidadCanciones());
+		
 		nuevaPlaylist.eliminarCancion("angie");
 		
 		System.out.println(nuevaPlaylist.cantidadCanciones());

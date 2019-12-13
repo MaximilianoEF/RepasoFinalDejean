@@ -1,4 +1,4 @@
-package playlist;
+/**package playlist;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -11,7 +11,7 @@ import java.util.TreeMap;
 
 public class OtrosMetodos {
 
-	
+
 	public static void descubrirNombresRepetidos(String miArchivo) throws IOException {
 		int cantNombres;
 		int cantRepetidos;
@@ -159,4 +159,4 @@ public void supermercado() {
 			}
 			
 }}
-
+**/
